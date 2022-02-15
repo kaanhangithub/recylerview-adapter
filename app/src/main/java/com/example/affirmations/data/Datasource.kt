@@ -19,4 +19,4 @@ class Datasource {
             Affirmation(R.string.affirmation10,R.drawable.image10)
         )
     }
-}git
+}
